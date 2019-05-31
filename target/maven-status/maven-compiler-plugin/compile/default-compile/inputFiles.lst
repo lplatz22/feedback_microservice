@@ -1,0 +1,16 @@
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/Swagger2SpringBoot.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/model/FeedbackInput.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/api/FeedbackApiController.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/api/ApiOriginFilter.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/api/ApiResponseMessage.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/model/SuccessfulResponse.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/api/ApiException.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/model/ErrorResponse.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/api/NotFoundException.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/configuration/CustomInstantDeserializer.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/configuration/JacksonConfiguration.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/configuration/HomeController.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/RFC3339DateFormat.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/api/FeedbackApi.java
+/Users/lukeplatz/Documents/IBM/Projects/DallasTraining/feedback_microservice/src/main/java/io/swagger/model/Feedback.java
